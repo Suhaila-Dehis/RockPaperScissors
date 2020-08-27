@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Loaders/UpdateGameLoader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Core/GameController.cs" Line="69" Column="52" />
+      <File FileName="Assets/Scripts/Loaders/UpdateGameLoader.cs" Line="29" Column="38" />
+      <File FileName="Assets/Scripts/GameItems/Player.cs" Line="35" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="Core" expanded="True" />
+              <Node name="GameItems" expanded="True" />
+              <Node name="Loaders" expanded="True">
+                <Node name="UpdateGameLoader.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
